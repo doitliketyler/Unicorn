@@ -1,0 +1,40 @@
+{
+  "name": "unicorn",
+  "version": "1.0.3",
+  "description": "A Gulp & Pug Starter Kit",
+  "author": "Tyler King",
+  "license": "MIT",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "keywords": [
+    "bourbon",
+    "neat",
+    "gulp",
+    "sass",
+    "js",
+    "images"
+  ],
+  "bugs": {
+    "url": "https://bitbucket.org/wpromotecreative/unicorn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/wpromotecreative/unicorn"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.0.0",
+    "gulp": "^3.8.8",
+    "gulp-cli": "^1.2.1",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-include": "^2.3.1",
+    "gulp-plumber": "^0.6.6",
+    "gulp-pug": "^3.0.3",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.1.0",
+    "imagemin-pngquant": "^4.0.0"
+  }
+}
