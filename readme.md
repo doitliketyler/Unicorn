@@ -8,7 +8,7 @@ A slightly opinionated starter kit for any front-end development projects.
 - Profit
 
 # Includes
-- Pug - http://jade-lang.com/reference/
+- Pug - https://pugjs.org/
 - Bourbon - http://bourbon.io/
 - Neat - http://neat.bourbon.io/
 - Normalize - https://necolas.github.io/normalize.css/
