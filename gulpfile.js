@@ -33,7 +33,7 @@ gulp.task('browser-sync', function() {
  * 
 gulp.task('browser-sync', function() {
 	browserSync.init({
-		proxy: "wpromote.local"
+		proxy: "project-name.local"
 	});
 });
  */
