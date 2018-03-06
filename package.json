@@ -18,11 +18,11 @@
     "images"
   ],
   "bugs": {
-    "url": "https://bitbucket.org/wpromotecreative/unicorn"
+    "url": "https://github.com/doitliketyler/Unicorn/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/wpromotecreative/unicorn"
+    "url": "https://github.com/doitliketyler/Unicorn"
   },
   "devDependencies": {
     "browser-sync": "^2.0.0",
